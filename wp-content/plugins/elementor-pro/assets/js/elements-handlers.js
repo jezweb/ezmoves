@@ -1,4 +1,4 @@
-/*! elementor-pro - v3.18.0 - 17-01-2024 */"use strict";(self["webpackChunkelementor_pro"]=self["webpackChunkelementor_pro"]||[]).push([["elements-handlers"],{"../assets/dev/js/frontend/elements-handlers.js":
+/*! elementor-pro - v3.18.0 - 20-12-2023 */"use strict";(self["webpackChunkelementor_pro"]=self["webpackChunkelementor_pro"]||[]).push([["elements-handlers"],{"../assets/dev/js/frontend/elements-handlers.js":
 /*!******************************************************!*\
   !*** ../assets/dev/js/frontend/elements-handlers.js ***!
   \******************************************************/

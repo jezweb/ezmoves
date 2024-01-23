@@ -1,4 +1,4 @@
-/*! elementor-pro - v3.18.0 - 17-01-2024 */
+/*! elementor-pro - v3.18.0 - 20-12-2023 */
 (()=>{"use strict";var __webpack_exports__={};
 /*!**************************************************************!*\
   !*** ../modules/screenshots/assets/js/preview/screenshot.js ***!

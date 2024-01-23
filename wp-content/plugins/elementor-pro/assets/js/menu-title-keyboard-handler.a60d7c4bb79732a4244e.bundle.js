@@ -1,4 +1,4 @@
-/*! elementor-pro - v3.18.0 - 17-01-2024 */"use strict";(self["webpackChunkelementor_pro"]=self["webpackChunkelementor_pro"]||[]).push([["menu-title-keyboard-handler"],{"../modules/mega-menu/assets/js/frontend/handlers/menu-title-keyboard-handler.js":
+/*! elementor-pro - v3.18.0 - 20-12-2023 */"use strict";(self["webpackChunkelementor_pro"]=self["webpackChunkelementor_pro"]||[]).push([["menu-title-keyboard-handler"],{"../modules/mega-menu/assets/js/frontend/handlers/menu-title-keyboard-handler.js":
 /*!***************************************************************************************!*\
   !*** ../modules/mega-menu/assets/js/frontend/handlers/menu-title-keyboard-handler.js ***!
   \***************************************************************************************/

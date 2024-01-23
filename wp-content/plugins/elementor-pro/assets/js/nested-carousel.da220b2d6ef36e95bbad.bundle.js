@@ -1,4 +1,4 @@
-/*! elementor-pro - v3.18.0 - 17-01-2024 */"use strict";(self["webpackChunkelementor_pro"]=self["webpackChunkelementor_pro"]||[]).push([["nested-carousel"],{"../modules/nested-carousel/assets/js/frontend/handlers/nested-carousel.js":
+/*! elementor-pro - v3.18.0 - 20-12-2023 */"use strict";(self["webpackChunkelementor_pro"]=self["webpackChunkelementor_pro"]||[]).push([["nested-carousel"],{"../modules/nested-carousel/assets/js/frontend/handlers/nested-carousel.js":
 /*!*********************************************************************************!*\
   !*** ../modules/nested-carousel/assets/js/frontend/handlers/nested-carousel.js ***!
   \*********************************************************************************/

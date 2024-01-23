@@ -1,4 +1,4 @@
-/*! elementor-pro - v3.18.0 - 17-01-2024 */"use strict";(self["webpackChunkelementor_pro"]=self["webpackChunkelementor_pro"]||[]).push([["ajax-pagination"],{"../modules/loop-builder/assets/js/frontend/handlers/ajax-pagination.js":
+/*! elementor-pro - v3.18.0 - 20-12-2023 */"use strict";(self["webpackChunkelementor_pro"]=self["webpackChunkelementor_pro"]||[]).push([["ajax-pagination"],{"../modules/loop-builder/assets/js/frontend/handlers/ajax-pagination.js":
 /*!******************************************************************************!*\
   !*** ../modules/loop-builder/assets/js/frontend/handlers/ajax-pagination.js ***!
   \******************************************************************************/

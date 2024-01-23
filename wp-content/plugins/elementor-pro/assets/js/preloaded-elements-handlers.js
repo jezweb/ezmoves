@@ -1,4 +1,4 @@
-/*! elementor-pro - v3.18.0 - 17-01-2024 */
+/*! elementor-pro - v3.18.0 - 20-12-2023 */
 (self["webpackChunkelementor_pro"]=self["webpackChunkelementor_pro"]||[]).push([["preloaded-elements-handlers"],{"../assets/dev/js/frontend/preloaded-elements-handlers.js":
 /*!****************************************************************!*\
   !*** ../assets/dev/js/frontend/preloaded-elements-handlers.js ***!
@@ -1206,7 +1206,7 @@ getNestedLevel(level){const settings=this.getSettings(),elementSettings=this.get
 let html=`<${settings.listWrapperTag} class="${settings.classes.listWrapper}">`;while(this.listItemPointer<this.headingsData.length){const currentItem=this.headingsData[this.listItemPointer];let listItemTextClasses=settings.classes.listItemText;if(0===currentItem.level){listItemTextClasses+=' '+settings.classes.firstLevelListItem;}
 if(level>currentItem.level){break;}
 if(level===currentItem.level){html+=`<li class="${settings.classes.listItem}">`;html+=`<div class="${settings.classes.listTextWrapper}">`;let liContent=`<a href="#${currentItem.anchorLink}" class="${listItemTextClasses}">${currentItem.text}</a>`;if('bullets'===elementSettings.marker_view&&icon){liContent=`${renderedIcon}${liContent}`;}
-liContent=_dompurify.default.sanitize(liContent);html+=liContent;html+='</div>';this.listItemPointer++;const nextItem=this.headingsData[this.listItemPointer];if(nextItem&&level<nextItem.level){html+=this.getNestedLevel(nextItem.level);}
+html+=liContent;html+='</div>';this.listItemPointer++;const nextItem=this.headingsData[this.listItemPointer];if(nextItem&&level<nextItem.level){html+=this.getNestedLevel(nextItem.level);}
 html+='</li>';}}
 html+=`</${settings.listWrapperTag}>`;return html;}
 handleNoHeadingsFound(){const noHeadingsText=__('No headings were found on this page.','elementor-pro');return this.elements.$tocBody.html(noHeadingsText);}
